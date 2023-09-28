@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebBetDW.Api",
+    "\\WebBetDW.Api\\Controllers",
+    "\\WebBetDW.Api\\Controllers\\Teams",
+    "\\WebBetDW.Context\\Context",
+    "\\WebBetDW.Core\\Core"
+  ],
+  "SelectedNode": "\\WebBetDW.Api\\Controllers\\Teams\\TeamController.cs",
+  "PreviewInSolutionExplorer": false
+}

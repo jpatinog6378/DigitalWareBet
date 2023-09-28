@@ -1,0 +1,57 @@
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Ioc.deps.json
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Ioc.dll
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Ioc.pdb
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Context.dll
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Core.dll
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Models.dll
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Core.pdb
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Context.pdb
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Models.pdb
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\WebBetDW.Ioc.csproj.AssemblyReference.cache
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\WebBetDW.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\WebBetDW.Ioc.AssemblyInfoInputs.cache
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\WebBetDW.Ioc.AssemblyInfo.cs
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\WebBetDW.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\WebBetDW.Ioc.csproj.CopyComplete
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\WebBetDW.Ioc.dll
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\refint\WebBetDW.Ioc.dll
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\WebBetDW.Ioc.pdb
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\ref\WebBetDW.Ioc.dll
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Ioc.deps.json
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Ioc.dll
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Ioc.pdb
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Context.dll
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Core.dll
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Models.dll
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Core.pdb
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Context.pdb
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Models.pdb
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\WebBetDW.Ioc.csproj.AssemblyReference.cache
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\WebBetDW.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\WebBetDW.Ioc.AssemblyInfoInputs.cache
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\WebBetDW.Ioc.AssemblyInfo.cs
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\WebBetDW.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\WebBetDW.Ioc.csproj.CopyComplete
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\WebBetDW.Ioc.dll
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\refint\WebBetDW.Ioc.dll
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\WebBetDW.Ioc.pdb
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\ref\WebBetDW.Ioc.dll
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Ioc.deps.json
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Ioc.dll
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Ioc.pdb
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Context.dll
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Core.dll
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Models.dll
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Core.pdb
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Context.pdb
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Ioc\bin\Debug\net5.0\WebBetDW.Models.pdb
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\WebBetDW.Ioc.csproj.AssemblyReference.cache
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\WebBetDW.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\WebBetDW.Ioc.AssemblyInfoInputs.cache
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\WebBetDW.Ioc.AssemblyInfo.cs
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\WebBetDW.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\WebBetDW.Ioc.csproj.CopyComplete
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\WebBetDW.Ioc.dll
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\refint\WebBetDW.Ioc.dll
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\WebBetDW.Ioc.pdb
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Ioc\obj\Debug\net5.0\ref\WebBetDW.Ioc.dll

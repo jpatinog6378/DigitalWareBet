@@ -1,0 +1,45 @@
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Context\bin\Debug\net5.0\WebBetDW.Context.deps.json
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Context\bin\Debug\net5.0\WebBetDW.Context.dll
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Context\bin\Debug\net5.0\WebBetDW.Context.pdb
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Context\bin\Debug\net5.0\WebBetDW.Models.dll
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Context\bin\Debug\net5.0\WebBetDW.Models.pdb
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\WebBetDW.Context.csproj.AssemblyReference.cache
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\WebBetDW.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\WebBetDW.Context.AssemblyInfoInputs.cache
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\WebBetDW.Context.AssemblyInfo.cs
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\WebBetDW.Context.csproj.CoreCompileInputs.cache
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\WebBetDW.Context.csproj.CopyComplete
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\WebBetDW.Context.dll
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\refint\WebBetDW.Context.dll
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\WebBetDW.Context.pdb
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\ref\WebBetDW.Context.dll
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Context\bin\Debug\net5.0\WebBetDW.Context.deps.json
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Context\bin\Debug\net5.0\WebBetDW.Context.dll
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Context\bin\Debug\net5.0\WebBetDW.Context.pdb
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Context\bin\Debug\net5.0\WebBetDW.Models.dll
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Context\bin\Debug\net5.0\WebBetDW.Models.pdb
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\WebBetDW.Context.csproj.AssemblyReference.cache
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\WebBetDW.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\WebBetDW.Context.AssemblyInfoInputs.cache
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\WebBetDW.Context.AssemblyInfo.cs
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\WebBetDW.Context.csproj.CoreCompileInputs.cache
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\WebBetDW.Context.csproj.CopyComplete
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\WebBetDW.Context.dll
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\refint\WebBetDW.Context.dll
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\WebBetDW.Context.pdb
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\ref\WebBetDW.Context.dll
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Context\bin\Debug\net5.0\WebBetDW.Context.deps.json
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Context\bin\Debug\net5.0\WebBetDW.Context.dll
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Context\bin\Debug\net5.0\WebBetDW.Context.pdb
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Context\bin\Debug\net5.0\WebBetDW.Models.dll
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Context\bin\Debug\net5.0\WebBetDW.Models.pdb
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\WebBetDW.Context.csproj.AssemblyReference.cache
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\WebBetDW.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\WebBetDW.Context.AssemblyInfoInputs.cache
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\WebBetDW.Context.AssemblyInfo.cs
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\WebBetDW.Context.csproj.CoreCompileInputs.cache
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\WebBetDW.Context.csproj.CopyComplete
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\WebBetDW.Context.dll
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\refint\WebBetDW.Context.dll
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\WebBetDW.Context.pdb
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Context\obj\Debug\net5.0\ref\WebBetDW.Context.dll

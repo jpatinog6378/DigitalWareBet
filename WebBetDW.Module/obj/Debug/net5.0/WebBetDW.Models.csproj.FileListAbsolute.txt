@@ -1,0 +1,36 @@
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Module\bin\Debug\net5.0\WebBetDW.Models.deps.json
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Module\bin\Debug\net5.0\WebBetDW.Models.dll
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Module\bin\Debug\net5.0\WebBetDW.Models.pdb
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\WebBetDW.Models.csproj.AssemblyReference.cache
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\WebBetDW.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\WebBetDW.Models.AssemblyInfoInputs.cache
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\WebBetDW.Models.AssemblyInfo.cs
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\WebBetDW.Models.csproj.CoreCompileInputs.cache
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\WebBetDW.Models.dll
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\refint\WebBetDW.Models.dll
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\WebBetDW.Models.pdb
+C:\Users\sebastianpg\Documents\Pruebas de Desarrollo\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\ref\WebBetDW.Models.dll
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Module\bin\Debug\net5.0\WebBetDW.Models.deps.json
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Module\bin\Debug\net5.0\WebBetDW.Models.dll
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Module\bin\Debug\net5.0\WebBetDW.Models.pdb
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\WebBetDW.Models.csproj.AssemblyReference.cache
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\WebBetDW.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\WebBetDW.Models.AssemblyInfoInputs.cache
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\WebBetDW.Models.AssemblyInfo.cs
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\WebBetDW.Models.csproj.CoreCompileInputs.cache
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\WebBetDW.Models.dll
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\refint\WebBetDW.Models.dll
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\WebBetDW.Models.pdb
+C:\Users\sebastianpg\Documents\PruebasDesarrollo\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\ref\WebBetDW.Models.dll
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Module\bin\Debug\net5.0\WebBetDW.Models.deps.json
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Module\bin\Debug\net5.0\WebBetDW.Models.dll
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Module\bin\Debug\net5.0\WebBetDW.Models.pdb
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\WebBetDW.Models.csproj.AssemblyReference.cache
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\WebBetDW.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\WebBetDW.Models.AssemblyInfoInputs.cache
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\WebBetDW.Models.AssemblyInfo.cs
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\WebBetDW.Models.csproj.CoreCompileInputs.cache
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\WebBetDW.Models.dll
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\refint\WebBetDW.Models.dll
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\WebBetDW.Models.pdb
+C:\Users\Maicol\Downloads\WebBetDW\WebBetDW.Module\obj\Debug\net5.0\ref\WebBetDW.Models.dll
